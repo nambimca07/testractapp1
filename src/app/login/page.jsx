@@ -13,7 +13,7 @@ export default function Login() {
     e.preventDefault();
     setLoading(true);
     setError('');
-
+debugger;
     const formData = new FormData(e.currentTarget);
     const response = await signIn('credentials', {
       username: formData.get('username'),
