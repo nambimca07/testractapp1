@@ -1,1 +1,1 @@
-{"/_not-found":"/_not-found","/login/page":"/login","/page":"/","/api/auth/[...nextauth]/route":"/api/auth/[...nextauth]","/users/page":"/users","/dashboard/page":"/dashboard","/daily-tracker/page":"/daily-tracker","/dashboardNew/page":"/dashboardNew"}
+{"/_not-found":"/_not-found","/api/auth/[...nextauth]/route":"/api/auth/[...nextauth]","/dashboardNew/page":"/dashboardNew","/page":"/","/dashboard/page":"/dashboard","/daily-tracker/page":"/daily-tracker","/users/page":"/users","/login/page":"/login"}
