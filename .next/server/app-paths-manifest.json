@@ -1,6 +1,10 @@
 {
-  "/dashboard/page": "app/dashboard/page.js",
+  "/_not-found": "app/_not-found.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
   "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
   "/users/page": "app/users/page.js",
-  "/login/page": "app/login/page.js"
+  "/dashboard/page": "app/dashboard/page.js",
+  "/daily-tracker/page": "app/daily-tracker/page.js",
+  "/dashboardNew/page": "app/dashboardNew/page.js"
 }
