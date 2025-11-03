@@ -17,7 +17,8 @@ const navigation = [
   { name: 'Dashboard', href: '/dashboard', icon: HomeIcon },
   { name: 'Financial Dashboard', href: '/dashboard/financial', icon: ChartBarIcon },
   //{ name: 'Daily Tracker', href: '/dashboard/daily-tracker', icon: CalendarIcon },
-  //{ name: 'New Dashboard', href: '/dashboardNew', icon: ChartBarIcon },
+  // { name: 'New Dashboard', href: '/dashboardNew', icon: ChartBarIcon },
+  { name: 'Users', href: '/users', icon: ChartBarIcon },
 ];
 
 export default function DashboardLayout({ children }) {
